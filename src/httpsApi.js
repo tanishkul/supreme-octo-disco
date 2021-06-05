@@ -22,6 +22,8 @@ function readLine() {
     return inputString[currentLine++];
 }
 
+
+
 /*
  * Complete the 'getArticleTitles' function below.
  *
