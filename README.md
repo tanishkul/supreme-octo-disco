@@ -17,5 +17,8 @@ This repository consists of the solutions of some problems. The solutions are ba
       integer denoting the page you would like to view (e.g., 1, 2, etc.).
 
     Create an array of strings named titles to store total elements. For each page of results, store the Title of each article in the titles array. Sort titles in       ascending order and return it as your answer.
+    Input:  saintamh
+            coloneltcb
+            epaga
     
     **Solution**: https://github.com/tanishkul/supreme-octo-disco/blob/main/src/httpsApi.js
