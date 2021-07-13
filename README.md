@@ -48,3 +48,18 @@ This repository consists of the solutions of some problems. The solutions are ba
     0 <= nums[i] <= 400
 
     **Solution**: https://github.com/tanishkul/supreme-octo-disco/blob/main/src/houseRobber.js
+
+- **Get Label of Intern-**
+    A company got N interns to work for 50 days and they will be given different passwords for each person to enter while login which changes daily, password of Kth intern on day 1 will be 5000*k. 
+    From day 2 (i.e, i=1) the password will be generated as below pattern. 
+                    Day(i) = Day(i-1)+5000+i;
+    Write a program to print the label (index of the intern) by taking inputs as number of interns input1= int N and password they entered input2=int password. 
+
+    For example : 
+    input1 N=2
+    input2 password = 5000
+    Output =1
+
+    input1 N=10
+    input2 password = 25003
+    Output =3
