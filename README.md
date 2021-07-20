@@ -63,3 +63,8 @@ This repository consists of the solutions of some problems. The solutions are ba
     input1 N=10
     input2 password = 25003
     Output =3
+
+- **Longest Range in array-**
+    Given an array of integers, return the largest range, inclusive, of integers that are all included in the array.
+
+    For example, given the array [9, 6, 1, 3, 8, 10, 12, 11], return (8, 12) since 8, 9, 10, 11, and 12 are all in the array.
